@@ -1,6 +1,6 @@
 
 
-Dev de Sistemas. Fissurado em dados e em transformar BO em solução. Sempre de olho nas novidades tech. ✨
+Dev de Sistemas. Fissurado em dados e em transformar BO em solução. Sempre de olho nas novidades tech.
 
 ---
 
